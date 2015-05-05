@@ -38,7 +38,7 @@ module StripeMock
         'account.updated',
         'account.application.deauthorized',
         'balance.available',
-        'charge.succeeded',
+        'charge.paid',
         'charge.failed',
         'charge.refunded',
         'charge.dispute.created',

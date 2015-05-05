@@ -132,7 +132,7 @@ module StripeMock
         currency: "usd",
         refunded: false,
         fee: 0,
-        status: 'succeeded',
+        status: 'paid',
         fee_details: [
         ],
         source: {
